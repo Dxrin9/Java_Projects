@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="90cf51d4-1cb2-425e-b753-583829ddce3b" name="Changes" comment="add class-methods-function">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -79,7 +80,7 @@
       <option name="presentableId" value="Default" />
       <updated>1761854089576</updated>
       <workItem from="1761854091407" duration="3756000" />
-      <workItem from="1761918984357" duration="2098000" />
+      <workItem from="1761918984357" duration="2449000" />
     </task>
     <task id="LOCAL-00001" summary="first-test commit">
       <option name="closed" value="true" />
