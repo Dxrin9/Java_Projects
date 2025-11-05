@@ -14,6 +14,11 @@ public class RegisterWork {
 
     public RegisterWork(String loginPerson, int starkWork, int endWork,  Double timeWork, Double salary)
     {
+        this.loginPerson = loginPerson;
+        this.starkWork = starkWork;
+        this.endWork = endWork;
+        this.timeWork = timeWork;
+        this.salary = salary;
     }
     public String getLoginPerson()
     {
@@ -66,7 +71,7 @@ public class RegisterWork {
     }
 
     public void loginWork(){
-        System.out.println("Persoana cu logarea " + loginPerson + " sa conectat");
+        System.out.println("Persoana cu logarea " + loginPerson + " este conectat");
     }
 
     public void setTimeStartEndToWork(){
@@ -79,7 +84,7 @@ public class RegisterWork {
     }
 
     public void salaryGet(){
-        System.out.println("Salariu primit: " + salary + " lei.");
+        System.out.println("Salariu pe zi: " + salary + " lei.");
     }
 
 }
